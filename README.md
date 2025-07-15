@@ -26,10 +26,6 @@ Evaluation Metrics : Calculates accuracy using labeled test data and saves predi
 - Pandas
 - scikit-learn
 
-You can install the required packages using pip:
-```bash
-pip install torch transformers pandas scikit-learn
-
 📊 Dataset Information
 
 Prepare your dataset in CSV/Excel format with the following columns:
